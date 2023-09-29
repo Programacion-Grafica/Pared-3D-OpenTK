@@ -1,0 +1,11 @@
+D:\Semestre2-23\Programacion grafica\Tarea-01\bin\Debug\Tarea-01.exe.config
+D:\Semestre2-23\Programacion grafica\Tarea-01\bin\Debug\Tarea-01.exe
+D:\Semestre2-23\Programacion grafica\Tarea-01\bin\Debug\Tarea-01.pdb
+D:\Semestre2-23\Programacion grafica\Tarea-01\bin\Debug\OpenTK.dll
+D:\Semestre2-23\Programacion grafica\Tarea-01\bin\Debug\OpenTK.pdb
+D:\Semestre2-23\Programacion grafica\Tarea-01\bin\Debug\OpenTK.xml
+D:\Semestre2-23\Programacion grafica\Tarea-01\obj\Debug\Tarea-01.csproj.AssemblyReference.cache
+D:\Semestre2-23\Programacion grafica\Tarea-01\obj\Debug\Tarea-01.csproj.CoreCompileInputs.cache
+D:\Semestre2-23\Programacion grafica\Tarea-01\obj\Debug\Tarea-01.csproj.CopyComplete
+D:\Semestre2-23\Programacion grafica\Tarea-01\obj\Debug\Tarea-01.exe
+D:\Semestre2-23\Programacion grafica\Tarea-01\obj\Debug\Tarea-01.pdb
